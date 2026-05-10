@@ -14,3 +14,5 @@ ugynok_aktak <- rbind(
     nem = "férfi"
   )
 )
+
+ugynok_aktak$orszag <- c("Egyesült Királyság", "Oroszország", "Magyarország", "USA")
