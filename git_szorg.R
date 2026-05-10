@@ -4,3 +4,13 @@ ugynok_aktak <- data.frame(
   kor = c(35, 28, 8),
   nem = c("férfi", "nő", "férfi")
 )
+
+ugynok_aktak <- rbind(
+  ugynok_aktak,
+  data.frame(
+    id = "009",
+    nev = "Ethan Hunt",
+    kor = 40,
+    nem = "férfi"
+  )
+)
