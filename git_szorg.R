@@ -14,3 +14,7 @@ ugynok_aktak <- rbind(
     nem = "férfi"
   )
 )
+
+ugynok_aktak$orszag <- c("Egyesült Királyság", "Oroszország", "Magyarország", "USA")
+
+ugynok_aktak$kedvenc_ital <- c("Martini", "Vodka", "Méz", "Whiskey")
