@@ -1,0 +1,6 @@
+ugynok_aktak <- data.frame(
+  id = c("007", "002", "003441"),
+  nev = c("James Bond", "Natasha Romanoff", "Brendon"),
+  kor = c(35, 28, 8),
+  nem = c("férfi", "nő", "férfi")
+)
