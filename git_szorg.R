@@ -16,3 +16,5 @@ ugynok_aktak <- rbind(
 )
 
 ugynok_aktak$orszag <- c("Egyesült Királyság", "Oroszország", "Magyarország", "USA")
+
+ugynok_aktak$kedvenc_ital <- c("Martini", "Vodka", "Méz", "Whiskey")
